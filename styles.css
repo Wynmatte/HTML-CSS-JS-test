@@ -4,12 +4,12 @@ html {
   }
   
 body {
-    background-color: whitesmoke;
+    background-color: lightblue;
   }
   
   /* this is a comment*/
   
-h3 {
+h1 {
     color: red;
 }  
   
@@ -19,5 +19,37 @@ h3 {
 }  
 
 .heading{
-    color: chartreuse;
+    color: grey;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-style: outset;
+    text-align: center;
 }
+
+a {
+    text-transform: uppercase;
+    color: rgb(155, 112, 60);
+}
+
+table, th, td {
+    margin-left: 100px;
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 300px;
+}
+th, td {
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
