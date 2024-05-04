@@ -1,0 +1,55 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+body {
+    background-color: lightblue;
+  }
+  
+  /* this is a comment*/
+  
+h1 {
+    color: red;
+}  
+  
+#username {
+    background-color: aquamarine;
+    border-radius: 20;
+}  
+
+.heading{
+    color: grey;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-style: outset;
+    text-align: center;
+}
+
+a {
+    text-transform: uppercase;
+    color: rgb(155, 112, 60);
+}
+
+table, th, td {
+    margin-left: 100px;
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 300px;
+}
+th, td {
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
