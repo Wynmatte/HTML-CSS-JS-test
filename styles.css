@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+body {
+    background-color: whitesmoke;
+  }
+  
+  /* this is a comment*/
+  
+h3 {
+    color: red;
+}  
+  
+#username {
+    background-color: aquamarine;
+    border-radius: 20;
+}  
+
+.heading{
+    color: chartreuse;
+}
